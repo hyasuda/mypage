@@ -1,0 +1,42 @@
++++
+date = 2018-06-01T00:00:00  # Schedule page publish date.
+
+title = "Development of muon spin rotator for J-PARC muon g-2/EDM experiment"
+time_start = 2018-08-01T13:00:00
+time_end = 2018-08-01T15:00:00
+abstract = ""
+abstract_short = ""
+event = "The 15th Particle Accelerator Society of Japan (PASJ)"
+event_url = "https://www.pasj.jp/dai15kainenkai/index.html"
+location = "Nagaoka, Niigata, Japan"
+
+# Is this a selected talk? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter the filename of your project file in `content/project/`.
+#   Otherwise, set `projects = []`.
+# projects = ["muon spin rotator"]
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
+
++++
+
+Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
