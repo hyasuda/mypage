@@ -62,8 +62,9 @@ enableGitInfo = false
   organizations = [ { name = "The University of Tokyo", url = "https://www.u-tokyo.ac.jp/en/index.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "hyasuda@post.kek.jp"
+  # avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "hyasuda.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "hyasuda_at_post.kek.jp"
   address = "Building 4 Room 326, IPNS, KEK, , Oho 1-1, Tsukuba, Ibaraki, Japan"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
@@ -185,7 +186,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -226,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:hyasuda@post.kek.jp"
+    link = "mailto:hyasuda_at_post.kek.jp"
 
   [[params.social]]
     icon = "twitter"

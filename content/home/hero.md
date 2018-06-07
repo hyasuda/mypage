@@ -8,7 +8,7 @@ date = 2017-10-15T00:00:00
 title = "Hi, I'm Hiromasa Yasuda."
 
 # Order that this section will appear in.
-weight = 3
+weight = 1
 
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
