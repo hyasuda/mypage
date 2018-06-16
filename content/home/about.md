@@ -26,6 +26,12 @@ weight = 5
   institution = "Saitama University"
   year = 2016
 
+# List your work position (such as Research fellow).
+[[work.position]]
+  position = "Research Assistant"
+  institution = "KEK"
+  year = "2016 - 2017"
+
 +++
 
 # Biography
