@@ -21,7 +21,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = "//research.kek.jp/student/hyasuda/files/Talk/180222_ICEPP23.pdf"
+url_slides = "//research.kek.jp/student/hyasuda/files/Talk/170222_ICEPP23.pdf"
 url_video = ""
 url_code = ""
 

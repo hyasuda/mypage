@@ -28,6 +28,11 @@ weight = 5
 
 # List your work position (such as Research fellow).
 [[work.position]]
+  position = "JSPS Research Fellow (DC1)"
+  institution = "The Univ. of Tokyo"
+  year = "2018 - "
+  
+[[work.position]]
   position = "Research Assistant"
   institution = "KEK"
   year = "2016 - 2017"
