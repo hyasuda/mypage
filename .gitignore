@@ -1,6 +1,6 @@
 # Hugo default output directory
 /public
-*pdf
+/static
 
 ## OS Files
 # OSX
